@@ -1,1 +1,4 @@
-# Resolução do desafio de projeto: Criando um sistema bancario
+# Resolução dos desafios de projeto: 
+
+1. Criando um sistema bancario
+1. Otimizando o Sistema Bancário com Funções Python
